@@ -71,7 +71,7 @@ This visualisation examines the difference between goals scored and goals conced
 
 ### Team Results and Win Percentage
 
-![Team Results and Win Percentage](Screenshots/Team%20WIn%25.png)
+![Team Results and Win Percentage](Screenshots/Result%20By%20Season.png)
 
 This section evaluates team results and consistency across the selected seasons.
 
