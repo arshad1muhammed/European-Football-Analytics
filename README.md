@@ -26,7 +26,7 @@ Seasons:
 
 ## Dashboard Preview
 
-![European Football Analytics Dashboard](Screenshots/dashboard-overview.png)
+![European Football Analytics Dashboard](Screenshots/Dashboard.png)
 
 ### Key Performance Indicators
 - Total Matches
