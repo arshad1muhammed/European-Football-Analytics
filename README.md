@@ -36,13 +36,20 @@ Seasons:
 - Draws
 
 ### Goals Analysis
+![European Football Analytics Dashboard](Screenshots/HG & AG.png)
 - Home Goals vs Away Goals by Season
 - Premier League Goals by Season
+![European Football Analytics Dashboard](Screenshots/HG & AG By Team.png)
+- 
 - Home Goals by Team
 - Away Goals by Team
 
 ### Team Performance Analysis
+
+![European Football Analytics Dashboard](Screenshots/Goal Difference.png)
 - Team Goal Difference
+![European Football Analytics Dashboard](Screenshots/Team WIn%.png)
+- 
 - Team Wins, Draws and Losses
 - Team Win Percentage
 - Season-based performance comparisons
