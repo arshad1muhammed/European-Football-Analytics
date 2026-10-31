@@ -24,7 +24,9 @@ Seasons:
 - 2023–24
 - 2024–25
 
-## Dashboard Features
+## Dashboard Preview
+
+![European Football Analytics Dashboard](Screenshots/dashboard-overview.png)
 
 ### Key Performance Indicators
 - Total Matches
